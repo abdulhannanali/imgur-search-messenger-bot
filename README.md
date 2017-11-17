@@ -1,4 +1,6 @@
 # Imgur Search Messenger Bot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/imgur-search-messenger-bot.svg)](https://greenkeeper.io/)
 Facebook's [Messenger Platform](https://developers.facebook.com/products/messenger/) bot using the most awesome [imgur](https://imgur.com) api on the internet.
 
 ### Things it does
